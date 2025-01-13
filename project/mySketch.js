@@ -21,7 +21,4 @@ function draw() {
   fill(0,0,0)
   ellipse(150,250,50,50);
   ellipse(350,250,50,50);
-  
-  fill(0, 0, 0)
-  text("("+mouseX + ", " + mouseY+")", 5, 15);
 }
