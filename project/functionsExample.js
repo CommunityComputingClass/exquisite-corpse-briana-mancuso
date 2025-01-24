@@ -64,7 +64,7 @@ function setup() {
    ellipse(x,y,400,500)
  }
  function hair(x,y){ 
-   angleMode(DEGREES)git add .
+   angleMode(DEGREES)
    fill(0,0,0)
    arc(x,y,500,700,180,360)
 }
